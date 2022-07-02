@@ -1,2 +1,2 @@
-# Affiche_publicitaire_Tesla
-Affiche réalisée en binôme lors mon DUT Informatique, dans le module Communication, réalisé en juin 2021.
+# Affiche publicitaire Tesla Cybertruck
+Travail noté consistant à réaliser une affiche publicitaire en binôme.
